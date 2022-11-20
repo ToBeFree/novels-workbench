@@ -1,0 +1,8 @@
+*.aux
+*.fods#
+*.kate-swp
+*.log
+*.mscz,
+*.odg#
+*.ods#
+*.out
