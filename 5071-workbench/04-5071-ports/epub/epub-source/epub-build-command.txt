@@ -1,0 +1,4 @@
+#!/bin/bash
+cd "content"
+zip -X0 "../ia3.epub" "mimetype"
+zip -Xr "../ia3.epub" *
