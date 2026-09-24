@@ -46,11 +46,11 @@
 |           ^   ^     N A B E N B E R G     ^   ^                                            |
 |             ^   ^   ^ ^ ^ ^ ^ ^ ^ ^ ^   ^   ^                                              |
 |               ^   ^   ^ ^ ^ ^ ^ ^ ^   ^   ^                                                |
-|                  GRÜNTAL  ^ ^ ^ ^   ^   ^                                                  |
-|                 (Thürstön)    ^   ^   ^   ^    * Arneb ---[*] LEPORIS--- * Nihal           |
-|    *            ^   ^   ^   ^   ^   ^   ^               (am ehesten eine Stadt)            |
-|                   ^   ^   ^   ^   ^   ^                                                    |
-|                         ^   ^   ^                                                          |
+|                  GRÜNTAL  ^ ^ ^ ^   ^   ^                             [*] LEPORIS          |
+|                 (Thürstön)    ^   ^   ^   ^                           (am ehesten          |
+|    *            ^   ^   ^   ^   ^   ^   ^                              eine Stadt)         |
+|                   ^   ^   ^   ^   ^   ^                                |                   |
+|                         ^   ^   ^                           * Arneb -- + -- * Nihal        |
 |  <-- weit im Westen:                                                                       |
 |      Urwald um Luyten                                                                      |
 |      (jenseits der Karte)                                                                  |

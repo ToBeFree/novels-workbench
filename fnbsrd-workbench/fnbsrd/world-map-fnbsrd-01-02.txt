@@ -46,11 +46,11 @@
 |   #  #  #  #  #  #                                                    ^   ^     N A B E N B E R G     ^   ^                                            |
 | #  #  #  #  #  #  #                                                     ^   ^   ^ ^ ^ ^ ^ ^ ^ ^ ^   ^   ^                                              |
 |  #  #  #  #  #  #  #                                                      ^   ^   ^ ^ ^ ^ ^ ^ ^   ^   ^                                                |
-|   #  #  #  #  #  #                                                           GRÜNTAL  ^ ^ ^ ^   ^   ^                                                  |
-| #  #  #  #  #  #  #                                                         (Thürstön)    ^   ^   ^   ^    * Arneb ---[*] LEPORIS--- * Nihal           |
-|  #  Elfenwald   #  #                                           *            ^   ^   ^   ^   ^   ^   ^               (am ehesten eine Stadt)            |
-|   #  #  #  #  #  #                                                            ^   ^   ^   ^   ^   ^                                                    |
-| #  #  #  #  #  #  #                                                                 ^   ^   ^                                                          |
+|   #  #  #  #  #  #                                                           GRÜNTAL  ^ ^ ^ ^   ^   ^                             [*] LEPORIS          |
+| #  #  #  #  #  #  #                                                         (Thürstön)    ^   ^   ^   ^                           (am ehesten          |
+|  #  Elfenwald   #  #                                           *            ^   ^   ^   ^   ^   ^   ^                              eine Stadt)         |
+|   #  #  #  #  #  #                                                            ^   ^   ^   ^   ^   ^                                |                   |
+| #  #  #  #  #  #  #                                                                 ^   ^   ^                           * Arneb -- + -- * Nihal        |
 |  #  #  #  #  #  #  #                                                                                                                                   |
 |   #  #  #  #  #  #                                                                                                                                     |
 | #  #  #  #  #  #  #                                                                                                                                    |

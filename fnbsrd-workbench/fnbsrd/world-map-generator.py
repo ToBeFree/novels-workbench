@@ -195,8 +195,11 @@ def draw_band1(c, ox, oy, west_note=True):
     c.put(ox + 34, oy + 52, "*", clear=1)
 
     # Leporis, Arneb, Nihal im tiefen Südosten
-    c.put(ox + 47, oy + 45, "* Arneb ---[*] LEPORIS--- * Nihal")
-    c.put(ox + 56, oy + 46, "(am ehesten eine Stadt)")
+    c.put(ox + 70, oy + 44, "[*] LEPORIS")      # Stern in Spalte ox+71
+    c.put(ox + 70, oy + 45, "(am ehesten")
+    c.put(ox + 70, oy + 46, " eine Stadt)")
+    c.put(ox + 71, oy + 47, "|")                 # direkt unter dem Stern
+    c.put(ox + 60, oy + 48, "* Arneb -- + -- * Nihal")  # Knoten "+" in Spalte ox+71
 
     # Rand-Notizen
     c.put(ox + 24, oy + 52, "fern im Süden: ein Land mit Straßen aus Gold (MAGNUS' Erzählung)")
