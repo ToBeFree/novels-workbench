@@ -46,9 +46,9 @@
 |   #  #  #  #  #  #                                                    ^   ^     N A B E N B E R G     ^   ^                                            |
 | #  #  #  #  #  #  #                                                     ^   ^   ^ ^ ^ ^ ^ ^ ^ ^ ^   ^   ^                                              |
 |  #  #  #  #  #  #  #                                                      ^   ^   ^ ^ ^ ^ ^ ^ ^   ^   ^                                                |
-|   #  #  #  #  #  #                                                           GRÜNTAL  ^ ^ ^ ^   ^   ^                                                  |
-| #  #  #  #  #  #  #                                                         (Thürstön)    ^   ^   ^   ^                 [*] LEPORIS (am ehesten eine S |
-|  #  Elfenwald   #  #                                           *            ^   ^   ^   ^   ^   ^   ^      * Arneb ------+------ * Nihal               |
+|   #  #  #  #  #  #                                                           GRÜNTAL  ^ ^ ^ ^   ^   ^                   [*] LEPORIS                    |
+| #  #  #  #  #  #  #                                                         (Thürstön)    ^   ^   ^   ^    * Arneb ------+------ * Nihal               |
+|  #  Elfenwald   #  #                                           *            ^   ^   ^   ^   ^   ^   ^              (Leporis: am ehesten eine Stadt)    |
 |   #  #  #  #  #  #                                                            ^   ^   ^   ^   ^   ^                                                    |
 | #  #  #  #  #  #  #                                                                 ^   ^   ^                                                          |
 |  #  #  #  #  #  #  #                                                                                                                                   |
