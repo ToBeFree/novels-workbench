@@ -259,17 +259,19 @@ def draw_band2(c, ox, oy):
     c.put(ox + 20, y + 2, " halle)")
 
     def stop(x, name, above, extra=None):
+        """Knoten + auf dem Weg bei x; der Stern des Namens steht genau darüber/darunter."""
+        off = name.index("*")  # Position des Sterns im Namen
         c.put(x, y, "+")
         if above:
             c.put(x, y - 1, "|")
-            c.put(x - 1, y - 2, name, clear=1)
+            c.put(x - off, y - 2, name, clear=1)
             if extra:
-                c.put(x - 1, y - 3, extra, clear=1)
+                c.put(x - off, y - 3, extra, clear=1)
         else:
             c.put(x, y + 1, "|")
-            c.put(x - 1, y + 2, name, clear=1)
+            c.put(x - off, y + 2, name, clear=1)
             if extra:
-                c.put(x - 1, y + 3, extra, clear=1)
+                c.put(x - off, y + 3, extra, clear=1)
 
     stop(ox + 34, "* Ran", above=True)
     stop(ox + 40, "[*] MAJORIS", above=False, extra="(Tempel der Liebe)")

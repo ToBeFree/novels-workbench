@@ -21,12 +21,12 @@
 |  #  Einsiedler  #  #                                                            #    Laubwald   #       #   #   #  \    #   #   #  dunkler Nadelwald   |
 |     (Atrokius)   #                                                                (wilde Tiere, Wölfe)    #   #   # \ #   #   #   #   #   #   #   #    |
 | #  #^ ^ ^#^ ^  #^ #                                                               #       #       #         #   #                                   #  |
-|  #^ # ^#^ ^ ^#^ #  #                                    (Doppeldorf)                   #       #       #  #   #   # /  * CYGNIS (Hütten im Wald,  #    |
-|    ELFENBERGE   ^#               * Ran        * Lalande ** Luhman                   #       #       #        Bach  /     Mutterbaum)                #  |
+|  #^ # ^#^ ^ ^#^ #  #                                     (Doppeldorf)                  #       #       #  #   #   # /  * CYGNIS (Hütten im Wald,  #    |
+|    ELFENBERGE   ^#                * Ran        * Lalande ** Luhman                  #       #       #        Bach  /     Mutterbaum)                #  |
 | # ^#  ^ ^#^ ^ ^#  #               |            |         |                       #       #       #       ##   #  ..   #   #   #   #   #   #   #   #    |
 |  #    w w w  #  ^   [*] AQUARII===+=====+======+====+====+== [*] LAST HOPE=========* PROXIMA========[*] ALPHA ...   #   #   #   #   #   #   #   #   #  |
 |   ^   Wölfe   ^  #  (Eukalyptus-        |           |        (Westtor--Osttor,                      (Osttor)  == = = = = entfernte kleinere Dörfer --> |
-| #  #^ # ^#^ ^  #  #  halle)            [*] MAJORIS * Wolf     Lindenbibliothek)                                 #   #   #   #   #   #   #   #   #   #  |
+| #  #^ # ^#^ ^  #  #  halle)            [*] MAJORIS  * Wolf    Lindenbibliothek)                                 #   #   #   #   #   #   #   #   #   #  |
 |  #  #  ~~    #^ #  #                   (Tempel der Liebe)                  \ Abstieg                      #   #   #   #   #   #   #   #   #   #   #    |
 |   #  Waldsee  #  #                                                           \                              #   #   #   #   #   #   #   #   #   #   #  |
 | #  #  ^  #^ #  #  #                                                                                       #   #   #   #   #   #   #   #   #   #   #    |
