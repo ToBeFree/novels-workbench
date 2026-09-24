@@ -147,12 +147,12 @@ def draw_band1(c, ox, oy, west_note=True):
     # Cygnis (Waldsiedlung, Hütten zwischen Bäumen, Mutterbaum)
     c.line([(ox + 57, oy + 18), (ox + 54, oy + 21)], clear=1)  # Bach
     c.put(ox + 49, oy + 20, "Bach", clear=1)
-    c.box(ox + 57, oy + 18, ox + 84, oy + 20)
+    c.box(ox + 58, oy + 18, ox + 84, oy + 20)
     c.put(ox + 59, oy + 19, "* CYGNIS (Hütten im Wald,")
     c.put(ox + 61, oy + 20, "Mutterbaum)")
 
     # Alpha
-    c.line([(ox + 50, oy + 22), (ox + 54, oy + 21)], ".")  # Trampelpfad nach Cygnis
+    c.line([(ox + 50, oy + 22), (ox + 53, oy + 21)], ".")  # Trampelpfad bis zum Bach
     c.box(ox + 39, oy + 22, ox + 49, oy + 24)
     c.put(ox + 40, oy + 22, "[*] ALPHA")
     c.put(ox + 40, oy + 23, "(Osttor)")
@@ -185,14 +185,14 @@ def draw_band1(c, ox, oy, west_note=True):
     c.put(cx + 5, cy, " (lyssenko) ", clear=1)
     c.put(cx - 12, cy + 6, " GRÜNTAL ", clear=1)
     c.put(cx - 13, cy + 7, " (Thürstön) ", clear=1)
-    c.put(ox + 15, oy + 25, "\\ Abstieg")
-    c.put(ox + 16, oy + 26, " \\")
+    c.line([(ox + 15, oy + 25), (ox + 18, oy + 28)])  # Abstieg Last Hope -> Berg
+    c.put(ox + 17, oy + 25, "Abstieg")
 
     # Eine Handvoll namenloser, Alpha-großer Dörfer rund um den Berg
     c.put(ox + 4, oy + 36, "*", clear=1)
     c.put(ox + 3, oy + 46, "*", clear=1)
     c.put(ox + 56, oy + 36, "*", clear=1)
-    c.put(ox + 34, oy + 52, "*", clear=1)
+    c.put(ox + 40, oy + 50, "*", clear=1)
 
     # Leporis, Arneb, Nihal im tiefen Südosten
     c.put(ox + 70, oy + 44, "[*] LEPORIS")      # Stern in Spalte ox+71
@@ -251,6 +251,7 @@ def draw_band2(c, ox, oy):
     # Weg Last Hope -> Aquarii (Band 2), Dörfer abwechselnd über/unter dem Weg
     y = oy + 22
     c.put(ox + 31, y, "=" * (lh - (ox + 31)), clear=0)
+    c.put(lh, y, "=")  # Anschluss an "[*] LAST HOPE"
 
     # Aquarii am Waldrand
     c.box(ox + 19, y, ox + 30, y + 2)
@@ -290,7 +291,8 @@ LEGENDE
   ^ ^ ^   Gebirge (dichter = höher)          *   Dorf, Siedlung (offen)
   # # #   Wald (Laub-, Nadel-, Urwald)       x   Ruine, Krater
   = = =   Hauptweg der Handlung              .   Trampelpfad
-  / \\ |   Fluss, Bach                        w   Wölfe (Band 2)
+  / \\     Fluss, Bach, Abstieg               w   Wölfe (Band 2)
+  | +     Anschluss eines Ortes an den Weg
   /\\      Berggipfel                         N   Norden ist oben
 
   Unbeschriftete Sterne: die »Handvoll Alpha-großer Dörfer« rund um den Berg (im Roman namenlos).

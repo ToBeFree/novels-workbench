@@ -20,17 +20,17 @@
 | #  #  Schnee  ^#  #                                                                #       #       #      #   #   \   #   #   #   #   #   #   #   #    |
 |  #  Einsiedler  #  #                                                            #    Laubwald   #       #   #   #  \    #   #   #  dunkler Nadelwald   |
 |     (Atrokius)   #                                                                (wilde Tiere, Wölfe)    #   #   # \ #   #   #   #   #   #   #   #    |
-| #  #^ ^ ^#^ ^  #^ #                                                               #       #       #         #   #                                   #  |
+| #  #^ ^ ^#^ ^  #^ #                                                               #       #       #         #   #    /                              #  |
 |  #^ # ^#^ ^ ^#^ #  #                                     (Doppeldorf)                  #       #       #  #   #   # /  * CYGNIS (Hütten im Wald,  #    |
 |    ELFENBERGE   ^#                * Ran        * Lalande ** Luhman                  #       #       #        Bach  /     Mutterbaum)                #  |
-| # ^#  ^ ^#^ ^ ^#  #               |            |         |                       #       #       #       ##   #  ..   #   #   #   #   #   #   #   #    |
-|  #    w w w  #  ^   [*] AQUARII===+=====+======+====+====+== [*] LAST HOPE=========* PROXIMA========[*] ALPHA ...   #   #   #   #   #   #   #   #   #  |
+| # ^#  ^ ^#^ ^ ^#  #               |            |         |                       #       #       #       ##   # ../   #   #   #   #   #   #   #   #    |
+|  #    w w w  #  ^   [*] AQUARII===+=====+======+====+====+===[*] LAST HOPE=========* PROXIMA========[*] ALPHA ..#   #   #   #   #   #   #   #   #   #  |
 |   ^   Wölfe   ^  #  (Eukalyptus-        |           |        (Westtor--Osttor,                      (Osttor)  == = = = = entfernte kleinere Dörfer --> |
 | #  #^ # ^#^ ^  #  #  halle)            [*] MAJORIS  * Wolf    Lindenbibliothek)                                 #   #   #   #   #   #   #   #   #   #  |
 |  #  #  ~~    #^ #  #                   (Tempel der Liebe)                  \ Abstieg                      #   #   #   #   #   #   #   #   #   #   #    |
-|   #  Waldsee  #  #                                                           \                              #   #   #   #   #   #   #   #   #   #   #  |
-| #  #  ^  #^ #  #  #                                                                                       #   #   #   #   #   #   #   #   #   #   #    |
-|  #  #  #  #  #  #  #          [*] ROSS (Gründorf,                                   ^   ^   ^               #   #   #   #   #   #   #   #   #   #   #  |
+|   #  Waldsee  #  #                                                          \                               #   #   #   #   #   #   #   #   #   #   #  |
+| #  #  ^  #^ #  #  #                                                          \                            #   #   #   #   #   #   #   #   #   #   #    |
+|  #  #  #  #  #  #  #          [*] ROSS (Gründorf,                             \     ^   ^   ^               #   #   #   #   #   #   #   #   #   #   #  |
 |   #  #  #  #  #  #             wird umgangen)                                 ^   ^   ^   ^   ^   ^                                                    |
 | #  #  #  #  #  #  w                                                         ^   ^   ^   ^   ^   ^   ^                                                  |
 |  #  #  #  #  #  #  #                E B E N E                             ^   ^   ^   ^   ^   ^   ^   ^                                                |
@@ -52,7 +52,7 @@
 |   #  #  #  #  #  #                                                            ^   ^   ^   ^   ^   ^                                |                   |
 | #  #  #  #  #  #  #                                                                 ^   ^   ^                           * Arneb -- + -- * Nihal        |
 |  #  #  #  #  #  #  #                                                                                                                                   |
-|   #  #  #  #  #  #                                                                                                                                     |
+|   #  #  #  #  #  #                                                                                  *                                                  |
 | #  #  #  #  #  #  #                                                                                                                                    |
 |                                                                                     fern im Süden: ein Land mit Straßen aus Gold (MAGNUS' Erzählung)   |
 |                                                                                                                                                        |
@@ -63,7 +63,8 @@ LEGENDE
   ^ ^ ^   Gebirge (dichter = höher)          *   Dorf, Siedlung (offen)
   # # #   Wald (Laub-, Nadel-, Urwald)       x   Ruine, Krater
   = = =   Hauptweg der Handlung              .   Trampelpfad
-  / \ |   Fluss, Bach                        w   Wölfe (Band 2)
+  / \     Fluss, Bach, Abstieg               w   Wölfe (Band 2)
+  | +     Anschluss eines Ortes an den Weg
   /\      Berggipfel                         N   Norden ist oben
 
   Unbeschriftete Sterne: die »Handvoll Alpha-großer Dörfer« rund um den Berg (im Roman namenlos).
